@@ -426,6 +426,8 @@ chapter2.txt    → Optional files in working directory
 💡 **Note:**  
 Even if you delete files from your working directory, `.git/objects/` still keeps the previous versions. That’s why Git can restore lost work!
 
+We will talk in detail about `.git` folder in another blog.
+
 ## Conclusion
 
 Git may feel confusing at first, but it’s just a **smart history tracker**.
