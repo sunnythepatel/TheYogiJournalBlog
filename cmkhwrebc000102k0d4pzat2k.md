@@ -2,10 +2,10 @@
 title: "Git for Beginners: A Real‑Life Friendly Explanation 🌱"
 seoTitle: "git_for_beginners"
 seoDescription: "Git for Beginners: A Real‑Life Friendly Explanation 🌱"
-datePublished: Sat Jan 17 2026 06:10:07 GMT+0000 (Coordinated Universal Time)
+datePublished: Tue Jan 13 2026 13:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmkhwrebc000102k0d4pzat2k
 slug: learn-git-real-life-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/842ofHC6MaI/upload/d1227af82eb2d152f58aebbaeb303719.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768630950148/f4efd139-aea6-488a-8919-7a4bcd13d9c9.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1768630169991/4105ec98-c119-441a-8278-1d53985753ff.png
 tags: git, git-commands, gitcommands, gitforbeginners, chaiaurcode, chaicode, git-for-beginners, chaicohort, chai-code
 
