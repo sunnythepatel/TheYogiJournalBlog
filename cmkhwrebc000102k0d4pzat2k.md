@@ -7,7 +7,7 @@ cuid: cmkhwrebc000102k0d4pzat2k
 slug: learn-git-real-life-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/842ofHC6MaI/upload/d1227af82eb2d152f58aebbaeb303719.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1768630169991/4105ec98-c119-441a-8278-1d53985753ff.png
-tags: git, git-commands, gitcommands, gitforbeginners, git-for-beginners
+tags: git, git-commands, gitcommands, gitforbeginners, chaiaurcode, chaicode, git-for-beginners, chaicohort, chai-code
 
 ---
 
