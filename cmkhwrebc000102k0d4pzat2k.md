@@ -424,7 +424,7 @@ chapter2.txt    → Optional files in working directory
 | Story files | Your **actual story you edit every day** |
 
 💡 **Note:**  
-Even if you delete files from your working directory, `.git/objects/` still keeps the previous versions. That’s why Git can restore lost work!  
+Even if you delete files from your working directory, `.git/objects/` still keeps the previous versions. That’s why Git can restore lost work!
 
 ## Conclusion
 
